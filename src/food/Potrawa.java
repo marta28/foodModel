@@ -4,8 +4,7 @@ public class Potrawa {
 
 	String name;
 	double price;
+	Size size;
 	
-	public class Category{
-		Size size;
-	}
+	
 }

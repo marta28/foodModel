@@ -7,6 +7,6 @@ public class Zamowienie {
 
 	User user;
 	Date deliveryTime;
-	List<Potrawa>potrawa;
+	List<Potrawa> potrawa;
 	
 }
